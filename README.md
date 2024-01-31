@@ -9,6 +9,7 @@
      
 
   Technologies and Tools I use:
+  
   Python SQL Git AWS Docker Kaggle Tableau  Pandas Numpy Vscode 
 
   I am committed to staying updated with the latest advancements in the field of data science. 
