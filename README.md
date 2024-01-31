@@ -8,7 +8,7 @@
   linkedIn : https://www.linkedin.com/in/ms-mgr-agri/
      
 
-  *Technologies and Tools I use:*
+  ### Technologies and Tools I use:
   
   Python SQL Git AWS Docker Kaggle Tableau  Pandas Numpy Vscode 
 
