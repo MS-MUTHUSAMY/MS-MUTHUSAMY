@@ -2,8 +2,8 @@
 - 👀 I’m interested in # Data Analyst
 - 🌱 I’m currently learning  #Data Science
 - 📫 How to reach me
--     mail : muthus007gr@gmail.com
--     LinkedIn : https://www.linkedin.com/in/ms-mgr-agri/
+      mail : muthus007gr@gmail.com
+      linkedIn : https://www.linkedin.com/in/ms-mgr-agri/
      
 
   Technologies and Tools I use:
