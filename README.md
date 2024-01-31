@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MS-MUTHUSAMY
-- 👀 I’m interested in # Data Analyst
-- 🌱 I’m currently learning  #Data Science
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me
 
   mail : muthus007gr@gmail.com
@@ -10,7 +10,16 @@
 
   ### Technologies and Tools I use:
   
-  Python SQL Git AWS Docker Kaggle Tableau  Pandas Numpy Vscode 
+  * Python
+  * SQL
+  * Git
+  * AWS
+  * Docker
+  * Kaggle
+  * Tableau /PowerBI
+  * Pandas
+  * Numpy
+  * Vscode 
 
   I am committed to staying updated with the latest advancements in the field of data science. 
 
