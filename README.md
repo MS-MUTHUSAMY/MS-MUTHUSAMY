@@ -16,7 +16,7 @@
 
 # Certifications  
 
-**Guvi :** Master Data Science
+**Guvi :** [Master Data Science]( https://www.guvi.in/verify-certificate?id=0e978xZ57UA101T37H)
 
 I am committed to staying updated with the latest advancements in the field of data science. 
 
