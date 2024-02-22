@@ -11,12 +11,12 @@
 
 # Skills
 
-* Programming Languages: Python
-* Data Manipulation: pandas, numpy
-* Data Visualization: matplotlib, seaborn, Plotly
-* Machine Learning: scikit-learn, Regression, Classification, Clustering, Neural Networks
-* Database: SQL, MongoDB
-* Tools: Jupyter Notebook, VS Code,  Git, Docker, Render.
+* **Programming Languages:** Python
+* **Data Manipulation:** pandas, numpy
+* **Data Visualization:** matplotlib, seaborn, Plotly
+* **Machine Learning:** scikit-learn, Regression, Classification, Clustering, Neural Networks
+* **Database:** SQL, MongoDB
+* **Tools:** Jupyter Notebook, VS Code,  Git, Docker, Render.
 
 # Certifications  
 
