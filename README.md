@@ -1,27 +1,24 @@
-- 👋 Hi, I’m @MS-MUTHUSAMY
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me
+#About Me
 
-  mail : muthus007gr@gmail.com
-  
+- 🌟 I am Data Science Enthusiast
+- 🎓 Master's in Data Science, GUVI Geek Networks, IITM Research Park.
+- 📧 Reach me at: muthus007gr@gmail.com
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/ms-mgr-agri/)
 
-     
+#Skills
 
-  ### Technologies and Tools I use:
-  
-  * Python
-  * SQL
-  * Git
-  * AWS
-  * Docker
-  * Kaggle
-  * Tableau /PowerBI
-  * Pandas
-  * Numpy
-  * Vscode 
+* Programming Languages: Python
+* Data Manipulation: pandas, numpy
+* Data Visualization: matplotlib, seaborn
+* Machine Learning: scikit-learn, TensorFlow, Keras
+* Database: SQL, MongoDB
+* Tools: Jupyter Notebook, Git, Docker,Render
 
-  I am committed to staying updated with the latest advancements in the field of data science. 
+#Certifications  
+
+Guvi : Master Data Science
+
+I am committed to staying updated with the latest advancements in the field of data science. 
 
 
 <!---
