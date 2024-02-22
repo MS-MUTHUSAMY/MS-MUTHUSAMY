@@ -1,7 +1,11 @@
 # About Me
 
-- 🌟 I am Data Science Enthusiast
-- 🎓 Master's in Data Science, GUVI Geek Networks, IITM Research Park.
+- 🌟 Data Science enthusiast with a passion for uncovering insights from data.
+- 🎓 Currently pursuing a Master's in Data Science at GUVI Geek Networks, IITM Research Park..
+- 💼 Actively seeking Data Science internship opportunities.
+- 💻 Skilled in Python, SQL, and various machine learning libraries.
+- 📊 Eagerly waiting for data visualization and storytelling with Tableau and matplotlib.
+- 📚 Lifelong learner eager to explore new technologies and methodologies in data science.
 - 📧 Reach me at: muthus007gr@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/ms-mgr-agri/)
 
@@ -9,10 +13,10 @@
 
 * Programming Languages: Python
 * Data Manipulation: pandas, numpy
-* Data Visualization: matplotlib, seaborn
-* Machine Learning: scikit-learn, TensorFlow, Keras
+* Data Visualization: matplotlib, seaborn, Plotly
+* Machine Learning: scikit-learn, Regression, Classification, Clustering, Neural Networks
 * Database: SQL, MongoDB
-* Tools: Jupyter Notebook, Git, Docker,Render
+* Tools: Jupyter Notebook, VS Code,  Git, Docker, Render.
 
 # Certifications  
 
