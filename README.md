@@ -2,7 +2,7 @@
 
 - 🌟 I am Data Science Enthusiast
 - 🎓 Master's in Data Science, GUVI Geek Networks, IITM Research Park.
-- 📧 Reach me at: muthus007gr@gmail.com
+- 📧 Reach me at:[gmail](muthus007gr@gmail.com)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/ms-mgr-agri/)
 
 #Skills
