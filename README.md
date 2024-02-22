@@ -1,11 +1,11 @@
-#About Me
+# About Me
 
 - 🌟 I am Data Science Enthusiast
 - 🎓 Master's in Data Science, GUVI Geek Networks, IITM Research Park.
-- 📧 Reach me at: [Gmail](muthus007gr@gmail.com)
+- 📧 Reach me at: muthus007gr@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/ms-mgr-agri/)
 
-#Skills
+# Skills
 
 * Programming Languages: Python
 * Data Manipulation: pandas, numpy
@@ -14,9 +14,9 @@
 * Database: SQL, MongoDB
 * Tools: Jupyter Notebook, Git, Docker,Render
 
-#Certifications  
+# Certifications  
 
-Guvi : Master Data Science
+**Guvi :** Master Data Science
 
 I am committed to staying updated with the latest advancements in the field of data science. 
 
