@@ -20,8 +20,8 @@
 
 # Certifications  
 
-**Guvi :** [Master Data Science]( https://www.guvi.in/verify-certificate?id=0e978xZ57UA101T37H)
-**IIT-Madras :** [PRAVARTA](https://drive.google.com/file/d/1Gsm-fAm5iQHSDtIa28mASoNRWR-MfD8Q/view?usp=drive_link)
+* **Guvi :** [Master Data Science]( https://www.guvi.in/verify-certificate?id=0e978xZ57UA101T37H)
+* **IIT-Madras :** [PRAVARTA](https://drive.google.com/file/d/1Gsm-fAm5iQHSDtIa28mASoNRWR-MfD8Q/view?usp=drive_link)
 
 I am committed to staying updated with the latest advancements in the field of data science. 
 
