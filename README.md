@@ -22,7 +22,7 @@
 
 * **Guvi :** [Master Data Science](https://drive.google.com/file/d/1orctnTIq_C6tis6TUChwmvBs9uiYzprO/view?usp=sharing)
 * **IIT-Madras :** [PRAVARTA](https://drive.google.com/file/d/1Gsm-fAm5iQHSDtIa28mASoNRWR-MfD8Q/view?usp=drive_link)
-* **Google :** [Google Analytics](https://skillshop.credential.net/a879e686-ff9f-409a-811f-87febd4a38b9) 
+* **Google :** [Google Analytics](https://drive.google.com/file/d/1ifH68auXyYqoZQHRR2Vzvg7bjpTEh3Iz/view?usp=sharing) 
 
 I am committed to staying updated with the latest advancements in the field of data science. 
 
