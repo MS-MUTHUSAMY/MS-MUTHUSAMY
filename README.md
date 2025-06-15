@@ -6,7 +6,7 @@
 - 💻 Skilled in Python, SQL, and various machine learning libraries.
 - 📊 Eagerly waiting for data visualization and storytelling with Tableau and matplotlib.
 - 📚 Lifelong learner eager to explore new technologies and methodologies in data science.
-- 📧 Reach me at: muthus007gr@gmail.com
+- 📧 Reach me at: msmgr8190@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/ms-mgr-agri/)
 
 # Skills
@@ -20,7 +20,7 @@
 
 # Certifications  
 
-* **Guvi :** [Master Data Science]( https://www.guvi.in/verify-certificate?id=0e978xZ57UA101T37H)
+* **Guvi :** [Master Data Science](https://drive.google.com/file/d/1orctnTIq_C6tis6TUChwmvBs9uiYzprO/view?usp=sharing)
 * **IIT-Madras :** [PRAVARTA](https://drive.google.com/file/d/1Gsm-fAm5iQHSDtIa28mASoNRWR-MfD8Q/view?usp=drive_link)
 * **Google :** [Google Analytics](https://skillshop.credential.net/a879e686-ff9f-409a-811f-87febd4a38b9) 
 
